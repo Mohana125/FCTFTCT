@@ -1,0 +1,9 @@
+{
+	"name": "FBXFBZCGZ",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d2c5932-0578-48a4-b534-bfcf139df0fe",
+		"tenantId": "b8cb205e-df60-4c79-ab0c-c8d29fac7943"
+	}
+}
